@@ -39,3 +39,7 @@ public class staticVariable {
 
 //javac STATIC/staticVariable.java
 // java STATIC.staticVariable 
+
+//git add .filename
+//git commit -m "Add STATIC folder and ignore class files"
+//git push -u origin main
